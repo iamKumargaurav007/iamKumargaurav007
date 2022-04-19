@@ -11,3 +11,6 @@ iamKumargaurav007/iamKumargaurav007 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 ![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamKumargaurav007&theme=chartreuse-dark&show_icons=true)
+
+<!---[![Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamKumargaurav007)](https://github.com/iamKumargaurav007/github-readme-stats)--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamKumargaurav007&repo=github-readme-stats)](https://github.com/iamKumargaurav007/github-readme-stats)
