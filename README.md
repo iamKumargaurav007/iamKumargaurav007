@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 <!---[![Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamKumargaurav007)](https://github.com/iamKumargaurav007/github-readme-stats)--->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamKumargaurav007&repo=github-readme-stats)](https://github.com/iamKumargaurav007/github-readme-stats)
+https://github.com/iamKumargaurav007/github-readme-stats
