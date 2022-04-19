@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamKumargaurav007"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamKumargaurav007&theme=dracula"/>
 </div>
 
   <div align="center">
