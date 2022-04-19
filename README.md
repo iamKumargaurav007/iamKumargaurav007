@@ -1,12 +1,13 @@
 <!---![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)--->
 <img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ro2mp3zk76zant7bpkimkw62j4uh8mrauj80n8ik&rid=giphy.gif&ct=g" title="👋 Hi there! This is KUMAR GAURAV"/>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iamKumargaurav007&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iamKumargaurav007&color=00cf00)    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumar.gaurav@hashmapinc.com)](mailto:kumar.gaurav@hashmapinc.com)
 - 👋 Hi, This is **KUMAR GAURAV**
 - 👀 I’m interested in Learning and Exploring 
 - 🌱 I’m currently learning Snowflakes
 - 💞️ I’m looking to collaborate on Tableau
 - 💻 Working at                                                                                                                                                 ![alt text](https://static.wixstatic.com/media/ac537f_3e85137680a14bc7a706112dad17295e~mv2.png/v1/fill/w_164,h_40,al_c,usm_0.66_1.00_0.01,enc_auto/hashmap_wht_logo_wider_t_borders.png)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamKumargaurav007&theme=chartreuse-dark&show_icons=true">
 
 <!---  📫 How to reach me --->
 
@@ -14,8 +15,8 @@
 iamKumargaurav007/iamKumargaurav007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamKumargaurav007&theme=chartreuse-dark&show_icons=true)
-
+<!---![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamKumargaurav007&theme=chartreuse-dark&show_icons=true)
+--->
 <!---[![Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamKumargaurav007)](https://github.com/iamKumargaurav007/github-readme-stats)--->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamKumargaurav007&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/iamKumargaurav007/github-readme-stats)
 
