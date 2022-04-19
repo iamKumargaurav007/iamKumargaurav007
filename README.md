@@ -2,7 +2,7 @@
 <!--- 👀 I’m interested in ...--->
 - 🌱 I’m currently learning Snowflakes
 - 💞️ I’m looking to collaborate on Tableau
-- 💻 Working at #HASHMAP
+- 💻 Working at                                                                                                                                                 ![alt text](https://static.wixstatic.com/media/ac537f_3e85137680a14bc7a706112dad17295e~mv2.png/v1/fill/w_164,h_40,al_c,usm_0.66_1.00_0.01,enc_auto/hashmap_wht_logo_wider_t_borders.png)
 
 <!---  📫 How to reach me --->
 
