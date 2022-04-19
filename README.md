@@ -1,5 +1,5 @@
 <!---![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)--->
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iamKumargaurav007&color=00cf00)    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumar.gaurav@hashmapinc.com)](mailto:kumar.gaurav@hashmapinc.com)
+![Profile visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iamKumargaurav007)    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumar.gaurav@hashmapinc.com)](mailto:kumar.gaurav@hashmapinc.com)    
 
 
 <img src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ro2mp3zk76zant7bpkimkw62j4uh8mrauj80n8ik&rid=giphy.gif&ct=g" title="👋 Hi there! This is KUMAR GAURAV"/>
